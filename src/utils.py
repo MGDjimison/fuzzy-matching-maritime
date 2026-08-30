@@ -1,9 +1,10 @@
 import polars as pl
 from thefuzz import fuzz, process
+from src.constants import OFTEN_KEYWORDS
 
 def clean_name(name: str) -> str:
     """
-    Cleans the company name by removing numbers, whitespace, and special characters.
+    Cleans the company name by removing whitespace and often appearing keywords.
     
     Args:
         name (str): The company name to clean.
@@ -12,9 +13,14 @@ def clean_name(name: str) -> str:
         str: The cleaned company name.
     """
 
-    cleaned_name = ''.join([char for char in name if not char.isdigit() and char.isalpha()])
+    name = name.replace(" ", "")
 
-    return cleaned_name.upper()
+    for keyword in OFTEN_KEYWORDS:
+        if keyword in name:
+            name = name.replace(keyword, "")
+            
+
+    return name.upper()
 
 
 def get_similar_names(df: pl.DataFrame) -> pl.DataFrame:
