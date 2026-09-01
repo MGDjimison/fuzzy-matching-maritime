@@ -14,7 +14,7 @@ def clean_name(name: str) -> str:
     """
 
     name = name.replace(" ", "")
-
+    
     for keyword in OFTEN_KEYWORDS:
         if keyword in name:
             name = name.replace(keyword, "")
@@ -41,3 +41,74 @@ def get_similar_names(df: pl.DataFrame) -> pl.DataFrame:
     similar_companies_df = similar_companies_df.remove(pl.col("fuzzy_matching_score") == 100)
 
     return similar_companies_df
+
+
+def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
+    active_companies_df = df.filter(pl.col("is_active") == True)
+    data = []
+
+    results = process.extract(company, choices=active_companies_df["name"].to_list(), limit=200, scorer=fuzz.partial_ratio)
+    for item in results:
+        best_company_match = item[0]
+
+        fuzzy_matching_score = item[1]
+
+        score_with_cleaned_name = fuzz.partial_ratio(
+            clean_name(company), clean_name(best_company_match)
+        )
+
+        score_3ch = fuzz.partial_ratio(
+            clean_name(company[:3]),
+            clean_name(best_company_match[:3])
+        )
+        if score_3ch == 100:
+            score_3ch += 20
+
+        score_5ch = fuzz.partial_ratio(
+            clean_name(company[:5]),
+            clean_name(best_company_match[:5])
+        )
+        if score_5ch == 100:
+            score_5ch += 50
+
+        data.append(
+            {
+                "name": company,
+                "best_match": best_company_match,
+                "fuzzy_matching_score": fuzzy_matching_score,
+                "score_with_cleaned_name": score_with_cleaned_name,
+                "score_3ch": score_3ch,
+                "score_5ch": score_5ch
+            }
+        )
+
+    result_df = pl.DataFrame(data=data)
+    # calculate total score and rank the results
+    result_df = result_df.with_columns(
+        (
+            pl.col("fuzzy_matching_score")
+            + pl.col("score_with_cleaned_name")
+            + pl.col("score_3ch")
+            + pl.col("score_5ch")
+        ).alias("total"),
+        # add a position column based on the total score, to rank the results
+    ).with_columns(
+        pl.col("total").rank("dense", descending=True).over("name").alias("position")
+    )
+
+    result_df = result_df.sort(by="position", descending=False).limit(2)
+
+    return result_df
+
+
+
+# def get_all_maker_top2(maritime_df: pl.DataFrame) -> pl.DataFrame:
+
+#     list_top2 = []
+#     for maker in tqdm(maritime_df["name"].to_list()):
+#         top2_df = get_top2_maker(maker)
+#         if isinstance(top2_df, pl.DataFrame):
+#             list_top2.append(top2_df)
+
+#     result_df = pl.concat(list_top2)
+#     # return result_df
