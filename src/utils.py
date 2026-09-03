@@ -45,6 +45,9 @@ def get_similar_names(df: pl.DataFrame) -> pl.DataFrame:
 
 
 def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
+    if company not in df["name"].to_list():
+        raise ValueError(f"Company '{company}' not found in the DataFrame.")
+    
     active_companies_df = df.filter(pl.col("is_active") == True)
     data = []
 
