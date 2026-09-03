@@ -1,0 +1,469 @@
+name,best_match,fuzzy_matching_score,score_with_cleaned_name,score_3ch,score_5ch,total,position
+Kàwazaki Zosen-*3,Kàwazaki Zosen-*3,100,100,120,150,470,1
+Kàwazaki Zosen-*3,Kawasaki Zosen,86,85,67,67,305,2
+Qimgdao Haixíng (3),Qimgdao Haixíng (3),100,100,120,150,470,1
+Qimgdao Haixíng (3),Qimgdao Haixing,93,93,120,150,456,2
+Shànghai Longhua *3,Shànghai Longhua *3,100,100,120,150,470,1
+Shànghai Longhua *3,Shanghai Longhua,94,93,80,80,347,2
+Atlantic enginèerng,Atlantic Engineering,89,100,120,150,459,1
+Atlantic enginèerng,Atlantic Engineering x5,89,89,120,150,448,2
+Kawasaki Zosén (2),Kawasaki Zosen,93,92,120,150,455,1
+Kawasaki Zosén (2),Kàwazaki Zosen-*3,79,69,67,67,282,2
+Industria Nvale Pesnte,Industria Nvale Pesnte,100,100,120,150,470,1
+Industria Nvale Pesnte,Industria Navale Pesante,91,90,120,150,451,2
+Pacific Heavy Engineering,Pacific Heavy Engineering,100,100,120,150,470,1
+Pacific Heavy Engineering,Atlantic Engineering,75,50,50,33,208,2
+Oceanic Marine Company x2,Oceanic Marine Company,100,100,120,150,470,1
+Oceanic Marine Company x2,Oceamic Mariné Company,91,78,120,0,289,2
+Fujian Haigöng,Fujian Haigong-4x,93,92,120,150,455,1
+Fujian Haigöng,Fujian Haigong,93,92,120,150,455,1
+PacificHeavy Engineering,Pacific Heavy Engineering,96,100,120,150,466,1
+PacificHeavy Engineering,Atlantic Engineering,75,50,50,33,208,2
+zinoWave Systemz-x2,SinoWave Systems,90,88,80,89,347,1
+zinoWave Systemz-x2,SinoWave Systems x2,92,78,80,89,339,2
+Hokkaido Zosen,Hokkaido Zosen,100,100,120,150,470,1
+Hokkaido Zosen,Hokkaido Zosen 4x,100,100,120,150,470,1
+Industria Marina Pesada,Industria Marina Pesada,100,100,120,150,470,1
+Industria Marina Pesada,Industria Navale Pesante,77,75,120,150,422,2
+Yokohama-Shiptech,Yokohama Shiptech,100,94,120,150,464,1
+Yokohama-Shiptech,Yokohàma Shiptéch,88,81,120,150,439,2
+índustria Navale Peante,Industria Navale Pesante,96,95,80,89,360,1
+índustria Navale Peante,Industria Nvale Pesnte,91,90,80,89,350,2
+Idüstria MarinaPesada,Industria Marina Pesada,90,92,80,67,329,1
+Idüstria MarinaPesada,Industria Navale Pesante,67,67,80,67,281,2
+néptunö Tecnologia Màriná,Neptuno Tecnologia Marina,86,84,67,80,317,1
+néptunö Tecnologia Màriná,Neptune Marine Technology,68,81,67,80,296,2
+SinoWave Systems,SinoWave Systems,100,100,120,150,470,1
+SinoWave Systems,SinoWave Systems x2,100,100,120,150,470,1
+Industrie Marine Lourd *3,Industrie Marine Lourd,100,100,120,150,470,1
+Industrie Marine Lourd *3,Industrie Marine-Lourd,100,97,120,150,467,2
+Séoul Ship Systemz 4x,Séoul Ship Systemz 4x,100,100,120,150,470,1
+Séoul Ship Systemz 4x,Seoul Ship Systems,91,89,67,80,327,2
+ösaka Kikai x2,ösaka Kikai x2,100,100,120,150,470,1
+ösaka Kikai x2,Osaka Kikai,91,90,80,89,350,2
+Nippon Kogyo Marine *3,Nippon Kogyo Marine,100,100,120,150,470,1
+Nippon Kogyo Marine *3,NipponKogyo-Maríme,88,92,120,150,450,2
+Poseidon Engineering,Poseidon Engineering,100,100,120,150,470,1
+Poseidon Engineering,Poseidon Engineerinj 4x,97,100,120,150,467,2
+Sakura Ship Engineering,Sakura Ship Engineering,100,100,120,150,470,1
+Sakura Ship Engineering,Sakura Ship Engineering,100,100,120,150,470,1
+mordsee Anlagenbau-(3),Nordsee Anlagenbau,94,94,80,89,357,1
+mordsee Anlagenbau-(3),Nordsée Anlagenbau,89,88,80,89,346,2
+Qingdao Haixing,Qingdao Haixing,100,100,120,150,470,1
+Qingdao Haixing,Qimgdao Haixing,93,93,80,80,346,2
+SinoWave Systems x2,SinoWave Systems,100,100,120,150,470,1
+SinoWave Systems x2,SinoWave Systems x2,100,100,120,150,470,1
+Blue Harbor-Technölogy,Blue Harbor Technology,95,90,120,150,455,1
+Blue Harbor-Technölogy,Kobe Ship Solutions,39,36,50,67,192,2
+Sakura-Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Sakura-Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Oceanic Marine Company,Oceanic Marine Company,100,100,120,150,470,1
+Oceanic Marine Company,Oceamic Mariné Company,91,88,120,0,299,2
+Shanghai Longhua,Shanghai Longhua,100,100,120,150,470,1
+Shanghai Longhua,Shanghai Longhua,100,100,120,150,470,1
+Hyundai öcean Works x5,Hyundai Ocean Works,95,100,120,150,465,1
+Hyundai öcean Works x5,Hainan Oceanic,59,53,50,44,206,2
+Oceamic Mríne Company,Oceamic Mríne Company,100,100,120,150,470,1
+Oceamic Mríne Company,Oceamic Mariné Company,86,84,120,150,440,2
+Qingdao Haíxinj,Qingdao Haixing,90,89,120,150,449,1
+Qingdao Haíxinj,Qimgdao Haixing,83,81,80,80,324,2
+OceanicMaie-Company,Oceanic Marine Company,84,88,120,150,442,1
+OceanicMaie-Company,Oceamic Mríne Company,74,79,120,0,273,2
+GüangzhouH-aiji,Guangzhou Haiji-4x,87,90,67,80,324,1
+GüangzhouH-aiji,Guangzhou Haiji,87,89,67,80,323,2
+Shenzhen Haíxinj,Shenzhen-Haíxing 4x,97,93,120,150,460,1
+Shenzhen Haíxinj,Shenzhen Haixing,90,90,120,150,450,2
+Indüstria Marina Pesada (3),Industria Marina Pesada,96,95,120,80,391,1
+Indüstria Marina Pesada (3),Industria Nvale Pesnte,71,68,120,80,339,2
+Blue Harbor Technolögy (2),Blue Harbor Technology,95,95,120,150,460,1
+Blue Harbor Technolögy (2),Kobe Ship Solutions,39,38,50,67,194,2
+Atlantc-Engineerimg,Atlantic Engineering,92,93,120,150,455,1
+Atlantc-Engineerimg,Atlantic Engineering x5,92,82,120,150,444,2
+Seoul Shp Systems,Seoul Ship Systems,94,93,120,150,457,1
+Seoul Shp Systems,Seoul zhíp Systems x5,88,80,120,150,438,2
+Shenzhen-Haíxing 4x,Shenzhen-Haíxing 4x,100,100,120,150,470,1
+Shenzhen-Haíxing 4x,Shenzhen Haixing,94,87,120,150,451,2
+Hokkaido-Zosen,Hokkaido Zosen 4x,100,96,120,150,466,1
+Hokkaido-Zosen,Hokkaido Zosen,100,92,120,150,462,2
+SinoWàve-Systems,SinoWàve-Systems,100,100,120,150,470,1
+SinoWàve-Systems,SinoWave Systems,94,88,120,150,452,2
+Nordsee Anagembau (2),Nordsee Anlagenbau,91,91,120,150,452,1
+Nordsee Anagembau (2),Nordsée Anlagenbau,86,85,120,150,441,2
+sinöMaríne Syztems (2),sinöMaríne Syztems (2),100,100,120,150,470,1
+sinöMaríne Syztems (2),SinoMarine Systems,83,86,120,80,369,2
+Marima Teknolöia Pesada,Marina Tecnologia Pesada,83,81,120,89,373,1
+Marima Teknolöia Pesada,Maritech Engineering,46,75,120,89,330,2
+Maritéch Engineerin (2),Maritech Engineering,92,88,120,150,450,1
+Maritéch Engineerin (2),Maritech Engineerimg,89,89,120,150,448,2
+Zhejiang Okean Tech (2),Zhejiang Okean Tech (2),100,100,120,150,470,1
+Zhejiang Okean Tech (2),Zhejiang Ocean Tech,95,80,120,150,445,2
+Ndsee-ánlajenbau,Ndsee-ánlajenbau,100,100,120,150,470,1
+Ndsee-ánlajenbau,Nordsee Anlagenbau,84,80,50,75,289,2
+Pacific Heavy engíneering x2,Pacific Heavy Engineering,96,100,120,150,466,1
+Pacific Heavy engíneering x2,Poseidon Engineerinj 4x,63,61,50,44,218,2
+Poseidon engneering (2),Poseidon Engineering,97,100,120,150,467,1
+Poseidon engneering (2),Poseidon Engineerinj 4x,88,89,120,150,447,2
+Osaka-Kikai,Osaka-Kikai,100,100,120,150,470,1
+Osaka-Kikai,Osaka Kikai,100,90,120,150,460,2
+Kawasaki Zosem-(3),Kawasaki Zosen,96,96,120,150,462,1
+Kawasaki Zosem-(3),Kàwazaki Zosen-*3,82,75,67,67,291,2
+Maritech Engineerimg,Maritech Engineerimg,100,100,120,150,470,1
+Maritech Engineerimg,Maritech Engineering,95,100,120,150,465,2
+Nordsee Anlagenbau,Nordsee Anlagenbau,100,100,120,150,470,1
+Nordsee Anlagenbau,Nordsée Anlagenbau,94,94,120,150,458,2
+Industrie Marine-Lourd,Industrie Marine-Lourd,100,100,120,150,470,1
+Industrie Marine-Lourd,Industrie Marine Lourd,100,93,120,150,463,2
+Global Maríne-industry,Global Maríne-industry,100,100,120,150,470,1
+Global Maríne-industry,Global Marine Industry,95,73,120,150,438,2
+Sakura Heàvy-Wrks,Sakura Heavy Works,88,100,120,150,458,1
+Sakura Heàvy-Wrks,Sakura Heavy Works,88,100,120,150,458,1
+Poseídon Engineerig,Poseidon Engineerinj 4x,92,91,120,89,392,1
+Poseídon Engineerig,Poseidon Engineering,92,88,120,89,389,2
+Nord zea Diesel Industry,Nord Sea Diesel Industry,96,95,120,150,461,1
+Nord zea Diesel Industry,Nord-Sa Díesel índustry x5,85,81,120,150,436,2
+Marina Tecnolögià Pesada,Marina Tecnologia Pesada,92,91,120,150,453,1
+Marina Tecnolögià Pesada,Maritech Engineering,56,75,120,89,340,2
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Yokohama-zhiptech *3,Yokohama Shiptech,94,88,120,150,452,1
+Yokohama-zhiptech *3,Yokohàma Shiptéch,82,75,120,150,427,2
+Nordsée Anlagenbau,Nordsée Anlagenbau,100,100,120,150,470,1
+Nordsée Anlagenbau,Nordsee Anlagenbau,94,94,120,150,458,2
+Oceaic Marine Company x5,Oceamic Mariné Company,93,69,120,89,371,1
+Oceaic Marine Company x5,Oceamic Mríne Company,90,70,120,89,369,2
+Tianjin Gongchej,Tianjin Gongchej,100,100,120,150,470,1
+Tianjin Gongchej,Tianjin Gongcheng,97,97,120,150,464,2
+Yokoama-Shiptéch,Yokohàma Shiptéch,88,88,120,89,385,1
+Yokoama-Shiptéch,Yokohama Shiptech,88,88,120,89,385,1
+Nord-Sa Díesel índustry x5,Nord-Sa Díesel índustry x5,100,100,120,150,470,1
+Nord-Sa Díesel índustry x5,Nord Sea Diesel Industry,89,86,120,150,445,2
+SinoMarine Systems,SinoMarine Systems,100,100,120,150,470,1
+SinoMarine Systems,SinoWave Systems x2,82,100,120,89,391,2
+Neptune Marine-Techology,Neptune Marine Technology,96,94,120,150,460,1
+Neptune Marine-Techology,Neptuno Tecnologia Marina,70,81,120,150,421,2
+Tianjin Gonjcheng,Tianjin Gongcheng,94,94,120,150,458,1
+Tianjin Gonjcheng,Tianjin Gongchej,90,90,120,150,450,2
+Poseidon Engineerinj 4x,Poseidon Engineerinj 4x,100,100,120,150,470,1
+Poseidon Engineerinj 4x,Poseidon Engineering,97,100,120,150,467,2
+Hokkaido Zosen,Hokkaido Zosen,100,100,120,150,470,1
+Hokkaido Zosen,Hokkaido Zosen 4x,100,100,120,150,470,1
+guangzhou-Haiji,Guangzhou Haiji-4x,100,97,120,150,467,1
+guangzhou-Haiji,Guangzhou Haiji,100,93,120,150,463,2
+Tianjin Gomgcheng x2,Tianjin Gongcheng,94,94,120,150,458,1
+Tianjin Gomgcheng x2,Tianjin Gongchej,90,90,120,150,450,2
+Fujian Haigong-4x,Fujian Haigong-4x,100,100,120,150,470,1
+Fujian Haigong-4x,Fujian Haigong,100,100,120,150,470,1
+Nord zea Disel índustry x2,Nord Sea Diesel Industry,89,88,120,150,447,1
+Nord zea Disel índustry x2,Nord-Sa Díesel índustry x5,86,82,120,150,438,2
+Tiànjín-Gongkheng,Tianjin Gongcheng,82,75,80,80,317,1
+Tiànjín-Gongkheng,Tianjin Gongchej,77,73,80,80,310,2
+Maritech Engineering,Maritech Engineering,100,100,120,150,470,1
+Maritech Engineering,Maritech Engineering-x5,100,100,120,150,470,1
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Neptuno Técnologia Marina x2,Neptuno Tecnologia Marina,96,96,120,150,462,1
+Neptuno Técnologia Marina x2,Neptune Marine Technology,68,81,120,150,419,2
+Blue Harbor Tecnoloy x5,Blue Harbor Technology,95,95,120,150,460,1
+Blue Harbor Tecnoloy x5,Kobe Ship Solutions,42,39,50,67,198,2
+Marina Tecnologia Pesada,Marina Tecnologia Pesada,100,100,120,150,470,1
+Marina Tecnologia Pesada,arina Teknologia-Pèsada,91,88,80,89,348,2
+Seoul-Ship Systemz,Seoul Ship Systems,97,89,120,150,456,1
+Seoul-Ship Systemz,Seoul zhíp Systems x5,86,67,120,150,423,2
+Guangzhou Haiji,Guangzhou Haiji,100,100,120,150,470,1
+Guangzhou Haiji,Guangzhou Haiji-4x,100,100,120,150,470,1
+Yokohàma Shiptéch,Yokohàma Shiptéch,100,100,120,150,470,1
+Yokohàma Shiptéch,Yokohama Shiptech,88,88,120,150,446,2
+Atlantic Engineering x5,Atlantic Engineering x5,100,100,120,150,470,1
+Atlantic Engineering x5,Atlantic Engineering,100,100,120,150,470,1
+Shenzhen-Haixíng,Shenzhen Haixing,94,87,120,150,451,1
+Shenzhen-Haixíng,Shenzhen-Haíxing 4x,88,88,120,150,446,2
+Nord SeaDiesel Imdustry-(3),Nord Sea Diesel Industry,94,95,120,150,459,1
+Nord SeaDiesel Imdustry-(3),Nord-Sa Díesel índustry x5,80,77,120,150,427,2
+Fujian-Hàijong,Fujian Haigong-4x,86,81,120,150,437,1
+Fujian-Hàijong,Fujian Haigong,86,77,120,150,433,2
+Kawasaki-Zosen (2),Kawasaki Zosen,100,92,120,150,462,1
+Kawasaki-Zosen (2),Kàwazaki Zosen-*3,85,73,67,67,292,2
+Industria Marina Pèsada,Industria Marina Pesada,96,95,120,150,461,1
+Industria Marina Pèsada,Industrie Marine Lourd,77,73,120,150,420,2
+Zhonjhai Jixie x5,Zhonghai Jixie,93,92,120,89,394,1
+Zhonjhai Jixie x5,Zhomghái Jixie,79,77,120,75,351,2
+Titan Heavy-equipment,Titan Heavy-equipment,100,100,120,150,470,1
+Titan Heavy-equipment,Titan Heavy Equipment,100,93,120,150,463,2
+Maritech Engineering-x5,Maritech Engineering,100,100,120,150,470,1
+Maritech Engineering-x5,Maritech Engineering-x5,100,100,120,150,470,1
+Shanghai Longhuá,Shanghai Longhua,97,97,120,150,464,1
+Shanghai Longhuá,Shanghai Longhua,97,97,120,150,464,1
+Shànghai Lönghüa x2,Shànghai Longhua *3,83,81,120,150,434,1
+Shànghai Lönghüa x2,Shanghai Longhua,81,80,80,80,321,2
+Zhejiang-Ocean Tech,Zhejiang Ocean Tech,100,92,120,150,462,1
+Zhejiang-Ocean Tech,Zhejiang Okean Tech (2),95,76,120,150,441,2
+Zejiang Ocean-Tech 4x,Zejiang Ocean-Tech 4x,100,100,120,150,470,1
+Zejiang Ocean-Tech 4x,Zhejiang Ocean Tech,97,92,80,89,358,2
+arina Teknologia-Pèsada,arina Teknologia-Pèsada,100,100,120,150,470,1
+arina Teknologia-Pèsada,Marina Tecnologia Pesada,91,88,80,89,348,2
+Hokkaido Zosen,Hokkaido Zosen,100,100,120,150,470,1
+Hokkaido Zosen,Hokkaido Zosen 4x,100,100,120,150,470,1
+Haiman Okeanic x2,Haiman Okeanic x2,100,100,120,150,470,1
+Haiman Okeanic x2,Hainan Ocenic-x2,81,80,120,80,361,2
+Fujían Haigng,Fujian Haigong-4x,85,83,120,80,368,1
+Fujían Haigng,Fujian Haigong,85,83,120,80,368,1
+Shenzhen-Haixinj,Shenzhen Haixing,97,93,120,150,460,1
+Shenzhen-Haixinj,Shenzhen-Haíxing 4x,90,90,120,150,450,2
+Pácífic Heavy-Engneering,Pacific Heavy Engineering,89,71,67,60,287,1
+Pácífic Heavy-Engneering,Poseidon Engineerinj 4x,59,61,50,33,203,2
+Titn Heàvy Equípment,Titn Heàvy Equípment,100,100,120,150,470,1
+Titn Heàvy Equípment,Titan Heavy Equipment,85,70,120,86,361,2
+Kawasaki Zosen,Kawasaki Zosen,100,100,120,150,470,1
+Kawasaki Zosen,Kàwazaki Zosen-*3,86,85,67,67,305,2
+Kob Ship Solutions,Kob Ship Solutions,100,100,120,150,470,1
+Kob Ship Solutions,Kobe Ship Solutions,94,94,120,86,394,2
+Oceamic Mariné Company,Oceamic Mariné Company,100,100,120,150,470,1
+Oceamic Mariné Company,Oceamic Mríne Company,86,84,120,150,440,2
+Hyundai Ocean Works x2,Hyundai Ocean Works,100,100,120,150,470,1
+Hyundai Ocean Works x2,Hainan Oceanic,67,53,50,44,214,2
+Zhomghái Jixie,Zhomghái Jixie,100,100,120,150,470,1
+Zhomghái Jixie,Zhonghai Jixie,86,85,120,80,371,2
+Tcnologia Marimá Avànzada,Tcnologia Marimá Avànzada,100,100,120,150,470,1
+Tcnologia Marimá Avànzada,Tecnologia Marina Avanzada,86,84,80,89,339,2
+Neptune Márine Technology,Neptune Marine Technology,96,83,120,150,449,1
+Neptune Márine Technology,Neptuno Tecnologia Marina,73,74,120,150,417,2
+Zhejiànj Ocean Tech (2),Zhejiang Ocean Tech,89,83,120,150,442,1
+Zhejiànj Ocean Tech (2),Zhejiang Okean Tech (2),86,72,120,150,428,2
+Guangzhou Haiji,Guangzhou Haiji,100,100,120,150,470,1
+Guangzhou Haiji,Guangzhou Haiji-4x,100,100,120,150,470,1
+Nordsee Anlagenbau,Nordsee Anlagenbau,100,100,120,150,470,1
+Nordsee Anlagenbau,Nordsée Anlagenbau,94,94,120,150,458,2
+Sàkura Ship enjineering,Sakura Ship Engineering,91,90,67,80,328,1
+Sàkura Ship enjineering,Sakura Ship Engineering,91,90,67,80,328,1
+Mritec-Engineering,Mritec-Engineering,100,100,120,150,470,1
+Mritec-Engineering,Maritech Engineering,94,86,80,89,349,2
+Kobe Ship solutions,Kobe Ship Solutions,100,100,120,150,470,1
+Kobe Ship solutions,Kob Ship Solutions,94,94,120,86,394,2
+Neptume Marine Tecnolögy x2,Neptune Marine Technology,90,85,120,150,445,1
+Neptume Marine Tecnolögy x2,Neptuno Tecnologia Marina,63,73,120,150,406,2
+Titan Heavy Equipent,Titan Heavy Equipment,95,92,120,150,457,1
+Titan Heavy Equipent,Titan Heavy-equipment,95,85,120,150,450,2
+Atlantiqüe Idutríe Mariné (3),Atlantiqüe Idutríe Mariné (3),100,100,120,150,470,1
+Atlantiqüe Idutríe Mariné (3),Atlantique Industrie Marine,86,83,120,150,439,2
+Neptumo Tecnoogia Marina *3,Neptuno Tecnologia Marina,94,93,120,150,457,1
+Neptumo Tecnoogia Marina *3,Neptune Marine Technology,70,77,120,150,417,2
+Hyundai Ocean Works,Hyundai Ocean Works,100,100,120,150,470,1
+Hyundai Ocean Works,Hainan Oceanic,67,60,50,44,221,2
+Atlantique Industrie Marine,Atlantique Industrie Marine,100,100,120,150,470,1
+Atlantique Industrie Marine,Atlantiqüe Industrie Márine (2),93,95,120,150,458,2
+Shemzhèn Háixing (3),Shenzhen Haixing,81,80,120,80,361,1
+Shemzhèn Háixing (3),Shenzhen-Haíxing 4x,72,67,120,80,339,2
+FujíánHaigöng,Fujian Haigong-4x,69,77,120,75,341,1
+FujíánHaigöng,Fujian Haigong,69,77,120,75,341,1
+Tianjin Gongcheng,Tianjin Gongcheng,100,100,120,150,470,1
+Tianjin Gongcheng,Tianjin Gongchej,97,97,120,150,464,2
+Osaka Kikai,Osaka Kikai,100,100,120,150,470,1
+Osaka Kikai,Osaka-Kikai,100,90,120,150,460,2
+Atlantic Emgimèerinj,Atlantic Engineering,82,100,120,150,452,1
+Atlantic Emgimèerinj,Atlantic Engineering x5,82,89,120,150,441,2
+QíngdaoHaixing,Qingdao Haixing,89,93,67,80,329,1
+QíngdaoHaixing,Qimgdao Haixing,85,88,50,60,283,2
+Kbe Ship Solutions,Kobe Ship Solutions,97,97,80,86,360,1
+Kbe Ship Solutions,Kob Ship Solutions,94,94,80,75,343,2
+Hainan Oceanic,Hainan Oceanic,100,100,120,150,470,1
+Hainan Oceanic,Hainan Ocenic-x2,96,88,120,150,454,2
+Tecnología Marina Avànzada *3,Tecnologia Marina Avanzada,92,92,120,150,454,1
+Tecnología Marina Avànzada *3,Tcnologia Marimá Avànzada,84,83,80,89,336,2
+Zhonghai Jixie,Zhonghai Jixie,100,100,120,150,470,1
+Zhonghai Jixie,Zhomghái Jixie,86,85,120,80,371,2
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Neptune Marine Technology,Neptune Marine Technology,100,100,120,150,470,1
+Neptune Marine Technology,Neptuno Tecnologia Marina,73,88,120,150,431,2
+industriè Marine Lourd *3,Industrie Marine Lourd,95,93,120,150,458,1
+industriè Marine Lourd *3,Industrie Marine-Lourd,95,90,120,150,455,2
+Sakura Ship Engineerinj,Sakura Ship Engineerinj,100,100,120,150,470,1
+Sakura Ship Engineerinj,Sakura Ship Engineering,98,100,120,150,468,2
+Neptune-Marine Technology,Neptune Marine Technology,100,94,120,150,464,1
+Neptune-Marine Technology,Neptuno Tecnologia Marina,73,85,120,150,428,2
+Seoul Ship Systems,Seoul Ship Systems,100,100,120,150,470,1
+Seoul Ship Systems,Seoul zhíp Systems x5,89,78,120,150,437,2
+Kawásaki Zosen 4x,Kawasaki Zosen,93,92,120,80,385,1
+Kawásaki Zosen 4x,Kàwazaki Zosen-*3,75,71,67,57,270,2
+Industria Mariná Pezàà,Industria Marina Pesada,88,86,120,150,444,1
+Industria Mariná Pezàà,Industrie Marine Lourd,79,73,120,150,422,2
+Blue Harbor Technology,Blue Harbor Technology,100,100,120,150,470,1
+Blue Harbor Technology,Kobe Ship Solutions,39,41,50,67,197,2
+Nord Sea Diesel Industry,Nord Sea Diesel Industry,100,100,120,150,470,1
+Nord Sea Diesel Industry,Nord-Sa Díesel índustry x5,89,86,120,150,445,2
+Tianjim Gongchéng-(3),Tianjin Gongcheng,88,88,120,150,446,1
+Tianjim Gongchéng-(3),Tianjin Gongchej,87,86,120,150,443,2
+Yokohama Shiptech,Yokohama Shiptech,100,100,120,150,470,1
+Yokohama Shiptech,Yokohàma Shiptéch,88,88,120,150,446,2
+Global Marine-Induztry x5,Global Marine Industry,95,86,120,150,451,1
+Global Marine-Induztry x5,Global Maríne-industry,91,65,120,150,426,2
+NipponKogyo-Maríme,NipponKogyo-Maríme,100,100,120,150,470,1
+NipponKogyo-Maríme,Nippon Kogyo Marine,88,100,120,150,458,2
+Qingdao ixinj,Qingdao Haixing,85,83,120,150,438,1
+Qingdao ixinj,Qimgdao Haixing,77,75,80,80,312,2
+Hyundàí Ocean-Works,Hyundai Ocean Works,89,83,120,150,442,1
+Hyundàí Ocean-Works,Hainan Oceanic,59,33,50,44,186,2
+SinoMarine Systems,SinoMarine Systems,100,100,120,150,470,1
+SinoMarine Systems,SinoWave Systems x2,82,100,120,89,391,2
+neptuno Técnolögiá Marina,Neptuno Tecnologia Marina,88,87,120,150,445,1
+neptuno Técnolögiá Marina,Neptune Marine Technology,63,75,120,150,408,2
+SimoWave Systems,SinoWave Systems,94,88,80,80,342,1
+SimoWave Systems,SinoWave Systems x2,94,88,80,80,342,1
+Industria Navale Pesante,Industria Navale Pesante,100,100,120,150,470,1
+Industria Navale Pesante,Industria Nvale Pesnte,91,90,120,150,451,2
+Industria arina Pezada (3),Industria Marina Pesada,93,93,120,150,456,1
+Industria arina Pezada (3),Industria Nvale Pesnte,75,72,120,150,417,2
+Hokkaido Zosen 4x,Hokkaido Zosen,100,100,120,150,470,1
+Hokkaido Zosen 4x,Hokkaido Zosen 4x,100,100,120,150,470,1
+Fujian Haigong,Fujian Haigong-4x,100,100,120,150,470,1
+Fujian Haigong,Fujian Haigong,100,100,120,150,470,1
+Kobe Ship Solutions,Kobe Ship Solutions,100,100,120,150,470,1
+Kobe Ship Solutions,Kob Ship Solutions,94,94,120,86,394,2
+Industrie Marine Lourd,Industrie Marine Lourd,100,100,120,150,470,1
+Industrie Marine Lourd,Industrie Marine-Lourd,100,93,120,150,463,2
+Neptuno Tecnologia Marina,Neptuno Tecnologia Marina,100,100,120,150,470,1
+Neptuno Tecnologia Marina,Neptune Marine Technology,73,88,120,150,431,2
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Sakura Heavy Works,Sakura Heavy Works,100,100,120,150,470,1
+Poseion énjinèèring,Poseidon Engineering,74,93,120,150,437,1
+Poseion énjinèèring,Poseidon Engineerinj 4x,74,72,120,150,416,2
+SínoMarin-eSystmz,SínoMarin-eSystmz,100,100,120,150,470,1
+SínoMarin-eSystmz,SinoMarine Systems,82,75,67,80,304,2
+Tecnoojia Marina Avanzadà (2),Tecnologia Marina Avanzada,92,91,120,150,453,1
+Tecnoojia Marina Avanzadà (2),Tcnologia Marimá Avànzada,78,76,80,89,323,2
+Atlantique nduztrie Marine,Atlantique nduztrie Marine,100,100,120,150,470,1
+Atlantique nduztrie Marine,Atlantique Industrie Marine,92,89,120,150,451,2
+Osaka Kikai,Osaka Kikai,100,100,120,150,470,1
+Osaka Kikai,Osaka-Kikai,100,90,120,150,460,2
+Marina-Tenoogia Pesadà,Marina Tecnologia Pesada,91,90,120,150,451,1
+Marina-Tenoogia Pesadà,arina Teknologia-Pèsada,86,81,80,89,336,2
+Guángzhou Haiji,Guangzhou Haiji,93,93,80,80,346,1
+Guángzhou Haiji,Guangzhou Haiji-4x,93,93,80,80,346,1
+Hainan Oceanic,Hainan Oceanic,100,100,120,150,470,1
+Hainan Oceanic,Hainan Ocenic-x2,96,88,120,150,454,2
+Atlamtiu IndustrieMarine,Atlantique Industrie Marine,83,82,120,89,374,1
+Atlamtiu IndustrieMarine,Atlantique nduztrie Marine,79,76,120,89,364,2
+Marina Tecnologia Pesada,Marina Tecnologia Pesada,100,100,120,150,470,1
+Marina Tecnologia Pesada,arina Teknologia-Pèsada,91,88,80,89,348,2
+Nippon Kogyo-Marínè,Nippon Kogyo Marine,92,100,120,150,462,1
+Nippon Kogyo-Marínè,NipponKogyo-Maríme,91,94,120,150,455,2
+Pcific Heav Enjineering (3),Pacific Heavy Engineering,92,92,80,89,353,1
+Pcific Heav Enjineering (3),Poseidon Engineerinj 4x,59,54,50,50,213,2
+Global Márine Industry,Global Maríne-industry,91,85,120,150,446,1
+Global Márine Industry,Global Marine Industry,95,73,120,150,438,2
+Global-Marine Industry,Global Marine Industry,100,93,120,150,463,1
+Global-Marine Industry,Global Maríne-industry,95,75,120,150,440,2
+Industrie Márine Lourd 4x,Industrie Marine Lourd,95,78,120,150,443,1
+Industrie Márine Lourd 4x,Industrie Marine-Lourd,95,75,120,150,440,2
+Guangzhou Haiji-4x,Guangzhou Haiji,100,100,120,150,470,1
+Guangzhou Haiji-4x,Guangzhou Haiji-4x,100,100,120,150,470,1
+Atlantiqüe Industrie Márine (2),Atlantiqüe Industrie Márine (2),100,100,120,150,470,1
+Atlantiqüe Industrie Márine (2),Atlantique Industrie Marine,93,95,120,150,458,2
+Atlantic Engineering,Atlantic Engineering x5,100,100,120,150,470,1
+Atlantic Engineering,Atlantic Engineering,100,100,120,150,470,1
+Titan Héavy Equipment,Titan Heavy Equipment,95,78,120,150,443,1
+Titan Héavy Equipment,Titan Heavy-equipment,95,75,120,150,440,2
+Indutia Navale Pesante,Industria Nvale Pesnte,91,90,120,89,390,1
+Indutia Navale Pesante,Industria Navale Pesante,91,90,120,89,390,1
+Níppon Kogyo-Marine (2),Níppon Kogyo-Marine (2),100,100,120,150,470,1
+Níppon Kogyo-Marine (2),Nippon Kogyo Marine,95,91,67,80,333,2
+Global Marine Industry,Global Marine Industry,100,100,120,150,470,1
+Global Marine Industry,Global Maríne-industry,95,73,120,150,438,2
+Tecnología Marina Avànzada (3),Tecnologia Marina Avanzada,92,92,120,150,454,1
+Tecnología Marina Avànzada (3),Tcnologia Marimá Avànzada,84,83,80,89,336,2
+Yoohama shiptech,Yokohama Shiptech,94,93,80,89,356,1
+Yoohama shiptech,Yokohàma Shiptéch,81,80,80,89,330,2
+Nippon Kogyo Marine,Nippon Kogyo Marine,100,100,120,150,470,1
+Nippon Kogyo Marine,NipponKogyo-Maríme,88,100,120,150,458,2
+zinoMarine Systemz,SinoMarine Systems,91,75,80,89,335,1
+zinoMarine Systemz,SínoMarin-eSystmz,85,76,50,75,286,2
+Seoul zhíp Systems x5,Seoul zhíp Systems x5,100,100,120,150,470,1
+Seoul zhíp Systems x5,Seoul Ship Systems,89,78,120,150,437,2
+Hainan Ocenic-x2,Hainan Ocenic-x2,100,100,120,150,470,1
+Hainan Ocenic-x2,Hainan Oceanic,96,88,120,150,454,2
+Kobe Ship Solutioms (2),Kobe Ship Solutions,95,94,120,150,459,1
+Kobe Ship Solutioms (2),Kob Ship Solutions,91,90,120,86,387,2
+índustrie Marine Lourd,Industrie Marine Lourd,98,96,80,89,363,1
+índustrie Marine Lourd,Industrie Marine-Lourd,98,93,80,89,360,2
+Zhèjiang Oceam Tech,Zhejiang Okean Tech (2),84,82,80,80,326,1
+Zhèjiang Oceam Tech,Zhejiang Ocean Tech,89,73,80,80,322,2
+Sakura Ship Engineering,Sakura Ship Engineering,100,100,120,150,470,1
+Sakura Ship Engineering,Sakura Ship Engineering,100,100,120,150,470,1
+Seoul Ship Systems x5,Seoul Ship Systems,100,100,120,150,470,1
+Seoul Ship Systems x5,Seoul zhíp Systems x5,90,82,120,150,442,2
+Titán HeavyEquipmmt x5,Titan Heavy Equipment,85,81,120,80,366,1
+Titán HeavyEquipmmt x5,Titan Heavy-equipment,85,79,120,80,364,2
+Kbé-Ship solütions,Kob Ship Solutions,89,83,80,67,319,1
+Kbé-Ship solütions,Kobe Ship Solutions,86,82,80,67,315,2
+Teknologia Marima Avanzadá x5,Tecnologia Marina Avanzada,90,89,80,80,339,1
+Teknologia Marima Avanzadá x5,Tcnologia Marimá Avànzada,84,83,50,67,284,2
+Osa-Kikài (2),Osaka-Kikai,80,80,120,89,369,1
+Osa-Kikài (2),Osaka Kikai,80,74,120,89,363,2
+aínan Oceanic,Hainan Oceanic,92,86,50,67,295,1
+aínan Oceanic,Hainan Ocenic-x2,85,71,50,67,273,2
+Global-Marine industy,Global Marine Industry,98,93,120,150,461,1
+Global-Marine industy,Global Maríne-industry,93,70,120,150,433,2
+honghai Jixie-x5,honghai Jixie-x5,100,100,120,150,470,1
+honghai Jixie-x5,Zhonghai Jixie,96,96,80,89,361,2
+Maritech Enginèering,Maritech Engineering,95,100,120,150,465,1
+Maritech Enginèering,Maritech Engineering-x5,95,84,120,150,449,2
+Hyündai-öcean Wörks,Hyundai Ocean Works,84,86,80,80,330,1
+Hyündai-öcean Wörks,Hainan Oceanic,59,53,50,44,206,2
+Pácific Heavy Emgimeering-(3),Pacific Heavy Engineering,88,86,67,80,321,1
+Pácific Heavy Emgimeering-(3),Poseidon Engineerinj 4x,53,53,50,44,200,2
+Nord Sea Diesel Industry 4x,Nord Sea Diesel Industry,100,100,120,150,470,1
+Nord Sea Diesel Industry 4x,Nord-Sa Díesel índustry x5,86,84,120,150,440,2
+hanghai Longhua,Shanghai Longhua,100,100,80,89,369,1
+hanghai Longhua,Shanghai Longhua,100,100,80,89,369,1
+Indüstria Nàvale Pesante,Industria Navale Pesante,92,91,120,80,383,1
+Indüstria Nàvale Pesante,Industria Nvale Pesnte,86,85,120,80,371,2
+Pozeidon èngineerng,Poseidon Engineering,84,88,80,80,332,1
+Pozeidon èngineerng,Poseidon Engineerinj 4x,84,83,80,80,327,2
+Zhnghai Jixie,Zhonghai Jixie,92,92,80,89,353,1
+Zhnghai Jixie,honghai Jixie-x5,92,92,80,89,353,1
+Ble Harbor Technology,Blue Harbor Technology,95,95,80,86,356,1
+Ble Harbor Technology,Neptune Marine Technology,75,74,50,33,232,2
+Shenzhen Haixing,Shenzhen Haixing,100,100,120,150,470,1
+Shenzhen Haixing,Shenzhen-Haíxing 4x,94,87,120,150,451,2
+míppon Kogyo Màrine 4x,Níppon Kogyo-Marine (2),86,77,80,89,332,1
+míppon Kogyo Màrine 4x,Nippon Kogyo Marine,84,82,50,75,291,2
+Titan Heavy Equipment,Titan Heavy Equipment,100,100,120,150,470,1
+Titan Heavy Equipment,Titan Heavy-equipment,100,93,120,150,463,2
+SinöWavè Systems,SinoWave Systems,88,80,120,80,368,1
+SinöWavè Systems,SinoWave Systems x2,88,80,120,80,368,1
+SinoMaríne systems x5,SinoMarine Systems,94,100,120,150,464,1
+SinoMaríne systems x5,sinöMaríne Syztems (2),85,83,120,80,368,2
+Hokaido-Zsen,Hokkaido Zosen,87,83,120,89,379,1
+Hokaido-Zsen,Hokkaido Zosen 4x,83,83,120,89,375,2
+Zhonghai Jiie,Zhonghai Jixie,92,92,120,150,454,1
+Zhonghai Jiie,honghai Jixie-x5,92,92,80,89,353,2
+zakura Shi enginering 4x,zakura Shi enginering 4x,100,100,120,150,470,1
+zakura Shi enginering 4x,Sakura Ship Engineering,91,84,80,89,344,2
+Atlantique industrie Marine,Atlantique Industrie Marine,100,100,120,150,470,1
+Atlantique industrie Marine,Atlantiqüe Industrie Márine (2),93,95,120,150,458,2
+Hainan Oceanic *3,Hainan Oceanic,100,100,120,150,470,1
+Hainan Oceanic *3,Hainan Ocenic-x2,90,78,120,150,438,2
+Qimgdao Haixing,Qimgdao Haixing,100,100,120,150,470,1
+Qimgdao Haixing,Qimgdao Haixíng (3),93,93,120,150,456,2
+Industriá Navale Pesamte,Industria Navale Pesante,92,91,120,150,453,1
+Industriá Navale Pesamte,Industria Nvale Pesnte,86,84,120,150,440,2
+HyundaiOcean Works,Hyundai Ocean Works,94,100,120,150,464,1
+HyundaiOcean Works,Hainan Oceanic,62,60,50,44,216,2
+Blue-Harbor Téchnology *3,Blue Harbor Technology,95,90,120,150,455,1
+Blue-Harbor Téchnology *3,Kobe Ship Solutions,39,36,50,50,175,2
+Shanghai Longhua,Shanghai Longhua,100,100,120,150,470,1
+Shanghai Longhua,Shanghai Longhua,100,100,120,150,470,1
+Neptune-Marime Technology,Neptune Marine Technology,96,79,120,150,445,1
+Neptune-Marime Technology,Neptuno Tecnologia Marina,73,63,120,150,406,2
+Zhejiang Ocean Tech,Zhejiang Ocean Tech,100,100,120,150,470,1
+Zhejiang Ocean Tech,Zhejiang Okean Tech (2),95,80,120,150,445,2
+Neptunö Tecmologia Marim,Neptuno Tecnologia Marina,89,88,120,150,447,1
+Neptunö Tecmologia Marim,Neptune Marine Technology,67,81,120,150,418,2
+Tecnologia Marina Avanzada,Tecnologia Marina Avanzada,100,100,120,150,470,1
+Tecnologia Marina Avanzada,Tcnologia Marimá Avànzada,86,84,80,89,339,2
+Osaka-Kiài,Osaka-Kikai,89,89,120,150,448,1
+Osaka-Kiài,Osaka Kikai,89,82,120,150,441,2
+Atantic Engineerimg x5,Atantic Engineerimg x5,100,100,120,150,470,1
+Atantic Engineerimg x5,Atlantic Engineering,92,93,80,89,354,2
+Sakura-ShipEnjineering,Sakura Ship Engineering,91,90,120,150,451,1
+Sakura-ShipEnjineering,Sakura Ship Engineerinj,91,90,120,150,451,1

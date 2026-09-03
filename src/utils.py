@@ -1,5 +1,6 @@
 import polars as pl
 from thefuzz import fuzz, process
+from tqdm import tqdm
 from src.constants import OFTEN_KEYWORDS
 
 def clean_name(name: str) -> str:
@@ -102,13 +103,14 @@ def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
 
 
 
-# def get_all_maker_top2(maritime_df: pl.DataFrame) -> pl.DataFrame:
+def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
+    list_top2 = []
+    
+    for company in tqdm(df["name"].to_list()):
+        top2_df = get_top2_similar_companies(company, df)
+        if isinstance(top2_df, pl.DataFrame):
+            list_top2.append(top2_df)
+        
 
-#     list_top2 = []
-#     for maker in tqdm(maritime_df["name"].to_list()):
-#         top2_df = get_top2_maker(maker)
-#         if isinstance(top2_df, pl.DataFrame):
-#             list_top2.append(top2_df)
-
-#     result_df = pl.concat(list_top2)
-#     # return result_df
+    result_df = pl.concat(list_top2)
+    return result_df
