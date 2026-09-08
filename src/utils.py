@@ -5,7 +5,8 @@ from src.constants import OFTEN_KEYWORDS
 
 def clean_name(name: str) -> str:
     """
-    Cleans the company name by removing whitespace and often appearing keywords.
+    Cleans the company name by removing numbers, whitespace, 
+    special characters and often appearing keywords.
     
     Args:
         name (str): The company name to clean.
@@ -14,7 +15,7 @@ def clean_name(name: str) -> str:
         str: The cleaned company name.
     """
 
-    name = name.replace(" ", "")
+    name = ''.join([char for char in name if not char.isdigit() and char.isalpha()])
     
     for keyword in OFTEN_KEYWORDS:
         if keyword in name:
@@ -51,24 +52,24 @@ def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
     active_companies_df = df.filter(pl.col("is_active") == True)
     data = []
 
-    results = process.extract(company, choices=active_companies_df["name"].to_list(), limit=200, scorer=fuzz.partial_ratio)
+    results = process.extract(company, choices=active_companies_df["name"].to_list(), limit=200, scorer=fuzz.ratio)
     for item in results:
         best_company_match = item[0]
 
         fuzzy_matching_score = item[1]
 
-        score_with_cleaned_name = fuzz.partial_ratio(
+        score_with_cleaned_name = fuzz.ratio(
             clean_name(company), clean_name(best_company_match)
         )
 
-        score_3ch = fuzz.partial_ratio(
+        score_3ch = fuzz.ratio(
             clean_name(company[:3]),
             clean_name(best_company_match[:3])
         )
         if score_3ch == 100:
             score_3ch += 20
 
-        score_5ch = fuzz.partial_ratio(
+        score_5ch = fuzz.ratio(
             clean_name(company[:5]),
             clean_name(best_company_match[:5])
         )
