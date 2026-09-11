@@ -1,6 +1,7 @@
 import polars as pl
 from thefuzz import fuzz, process
 from tqdm import tqdm
+import plotly.express as px
 from src.constants import OFTEN_KEYWORDS
 
 def clean_name(name: str) -> str:
@@ -99,3 +100,12 @@ def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
 
     result_df = pl.concat(list_top2)
     return result_df
+
+
+def show_chart_top2_similar_companies(df: pl.DataFrame) -> None:
+    fig = px.bar(
+        df, x="best_match", y="total", 
+        color="name", title=df['name'].unique()[0],
+        labels={"best_match": "Best Company Match", "total": "fuzzy matching Score"}
+    )
+    fig.show()

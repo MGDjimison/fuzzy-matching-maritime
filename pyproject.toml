@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "plotly[express]>=7.0.0",
     "polars>=1.43.2",
     "thefuzz>=0.22.1",
     "tqdm>=4.70.0",
