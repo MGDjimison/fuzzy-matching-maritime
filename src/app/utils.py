@@ -2,7 +2,7 @@ import polars as pl
 from thefuzz import fuzz, process
 from tqdm import tqdm
 import plotly.express as px
-from src.constants import OFTEN_KEYWORDS
+from app.constants import OFTEN_KEYWORDS
 
 def clean_name(name: str) -> str:
     """
