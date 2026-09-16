@@ -102,10 +102,11 @@ def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
     return result_df
 
 
-def show_chart_top2_similar_companies(df: pl.DataFrame) -> None:
+def create_chart_top2_similar_companies(df: pl.DataFrame) -> None:
     fig = px.bar(
         df, x="best_match", y="total", 
         color="name", title=df['name'].unique()[0],
         labels={"best_match": "Best Company Match", "total": "fuzzy matching Score"}
     )
-    fig.show()
+    fig.update_layout(showlegend=False)
+    return fig
