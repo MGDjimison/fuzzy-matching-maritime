@@ -18,9 +18,9 @@ if __name__ == "__main__":
         ),
         dcc.Graph(id='output-chart'),
         html.P('Or click the button below to compute the top 2 similar companies for all inactive companies.'),
-        html.Button('Compute Top 2 Similar Companies', id='compute-button', n_clicks=0),
+        dcc.Button('Compute Top 2 Similar Companies', id='compute-button', n_clicks=0),
         html.Div(id='output-message')
-    ])
+    ], style={'width': '70%', 'margin': 'auto', 'textAlign': 'center'})
 
     # create a callback to update the chart based on the selected company
     @app.callback(
