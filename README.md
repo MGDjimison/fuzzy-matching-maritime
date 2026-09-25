@@ -32,8 +32,6 @@ cd src
 uv run python -m app.main
 ```
 
-<img src="images/app.png" width="700" />
-
 ## Tests
 
 ```bash

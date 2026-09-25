@@ -104,7 +104,7 @@ def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
 def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
     """
     Compute the top 2 similar companies for all inactive companies in the DataFrame.
-    
+
     Args:
         df (pl.DataFrame): The DataFrame containing company data.
 
@@ -119,13 +119,14 @@ def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
             list_top2.append(top2_df)
 
     result_df = pl.concat(list_top2)
+    
     return result_df
 
 
 def create_chart_top2_similar_companies(df: pl.DataFrame) -> None:
     """
     Create a bar chart for the top 2 similar companies using Plotly Express.
-    
+
     Args:
         df (pl.DataFrame): The DataFrame containing the top 2 similar companies and their scores.
 
@@ -141,4 +142,5 @@ def create_chart_top2_similar_companies(df: pl.DataFrame) -> None:
         labels={"best_match": "Best Company Match", "total": "fuzzy matching Score"},
     )
     fig.update_layout(showlegend=False)
+
     return fig

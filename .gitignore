@@ -9,5 +9,3 @@ wheels/
 # Virtual environments
 .venv
 
-# Images and media
-*.png
