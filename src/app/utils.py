@@ -28,6 +28,16 @@ def clean_name(name: str) -> str:
 
 
 def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Get the top 2 similar companies for a given company name.
+
+    Args:
+        company (str): The company name to find similar companies for.
+        df (pl.DataFrame): The DataFrame containing company data.
+
+    Returns:
+        pl.DataFrame: A DataFrame containing the top 2 similar companies and their scores.
+    """
     if company not in df["name"].to_list():
         raise ValueError(f"Company '{company}' not found in the DataFrame.")
 
@@ -92,6 +102,15 @@ def get_top2_similar_companies(company: str, df: pl.DataFrame) -> pl.DataFrame:
 
 
 def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
+    """
+    Compute the top 2 similar companies for all inactive companies in the DataFrame.
+    
+    Args:
+        df (pl.DataFrame): The DataFrame containing company data.
+
+    Returns:
+        pl.DataFrame: A DataFrame containing the top 2 similar companies for each inactive company.
+    """
     list_top2 = []
 
     for company in tqdm(df["name"].to_list()):
@@ -104,6 +123,15 @@ def compute_top2_similar_companies(df: pl.DataFrame) -> pl.DataFrame:
 
 
 def create_chart_top2_similar_companies(df: pl.DataFrame) -> None:
+    """
+    Create a bar chart for the top 2 similar companies using Plotly Express.
+    
+    Args:
+        df (pl.DataFrame): The DataFrame containing the top 2 similar companies and their scores.
+
+    Returns:
+        go.Figure: The Plotly figure for the bar chart.
+    """
     fig = px.bar(
         df,
         x="best_match",
